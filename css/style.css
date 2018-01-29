@@ -53,6 +53,10 @@
     transform: scaleX(1.02);
 }
 
+.cert img {
+    width: 100%;
+}
+
 @media only screen and (max-width: 720px) {
     .kitties {
         flex-direction: column;
